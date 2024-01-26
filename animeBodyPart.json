@@ -1,0 +1,148 @@
+[
+    {
+        "name":"Genos",
+        "anime":"One punch man",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199100188174844004/IMG_20240122_221208.jpg?ex=65c15013&is=65aedb13&hm=7698648ae7a5e6a378d960261da7b19de5beb8cda534af009e81b6534041476d&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199100187960946769/53bd2d0ae9ba11e7616cee2c2f93b58d.jpg?ex=65c15013&is=65aedb13&hm=60f63b59ccac1ad79d33bcd6f581a92b13cb755778e7ec11333c43b792f148a1&"
+    },{
+        "name":"Saitama",
+        "anime":"One punch man",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200114178418016296/IMG_20240125_172503.jpg?ex=65c5006d&is=65b28b6d&hm=0d171cb29d9e35ec9ff8839c3bded2c4b7cd3e0a9f006501278c1b93a46af844&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200113470650200195/saitama.webp?ex=65c4ffc4&is=65b28ac4&hm=64bc020bbd11a192c1ccb2ff66b3ee2a823a0a0d271a20bfd8a2174aea4b5cd0&"
+    },{
+        "name":"Senku",
+        "anime":"Dr. Stone",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199100207284101161/IMG_20240122_221249.jpg?ex=65c15017&is=65aedb17&hm=c55fa80b54e040cd9b303ff22b132eaf65133de391594a57057abf1deb7656a4&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199100207045038181/f8ed51df5f84c9c7354284f77ebf33fc.jpg?ex=65c15017&is=65aedb17&hm=999dfbc689888f9792a19f02e624bb5ea1a8cb106ea73fba137a756a21ef65ea&"
+    },{
+        "name":"Denji",
+        "anime":"Chainsaw Man",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126218956177458/IMG_20240125_172743.jpg?ex=65c50ba3&is=65b296a3&hm=52fd6ba4d9837e3547a7908e33da777a8b2fa5baedd23adc429ad01f6c4ba423&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126218750664815/Asi-se-ve-Denji-convertido-en-adulto-segun-ilustracion-de-Chainsaw-Man-1.jpg?ex=65c50ba3&is=65b296a3&hm=dd5a9143c82d9b3fc881969fe01e1c7d90adcf2e50ad6b4bcf87cddb1c02fc61&"
+    },{
+        "name":"Pochita",
+        "anime":"Chainsaw Man",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126209036664850/images_4.jpg?ex=65c50ba1&is=65b296a1&hm=0b47250844c57b9818738a55b131825e862670c1ec23e8cd9fbfc593499bfe19&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126209036664850/images_4.jpg?ex=65c50ba1&is=65b296a1&hm=0b47250844c57b9818738a55b131825e862670c1ec23e8cd9fbfc593499bfe19&"
+    },{
+        "name":"Makima",
+        "anime":"Chainsaw Man",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126198152437770/IMG_20240125_173009.jpg?ex=65c50b9e&is=65b2969e&hm=418b575f6db491dfc555beeac8f4fe42bfcf010b979da1463d544e5b8a4da489&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126197812703463/f7da1-16661616016940-1920.jpg?ex=65c50b9e&is=65b2969e&hm=b321ae0c32021b5eac9c65117764afef694078813c0798011aeeb5dad6b3d0c1&"
+    },{
+        "name":"Rudeus",
+        "anime":"Mushoku Tensei",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126182981648495/IMG_20240125_180210.jpg?ex=65c50b9b&is=65b2969b&hm=e999695789343d263e5650916666a65384942d301723da712492b9c37b617c47&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126182763528242/8bbbb-16810299698419-1920.jpg?ex=65c50b9b&is=65b2969b&hm=c0796da9fc7bd6932e2082aa26cb0140c9dda5c3d322cf0a31f8a880eec5d777&"
+    },{
+        "name":"Gon",
+        "anime":"Hunter x Hunter",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199100073343193208/IMG_20240122_221405.jpg?ex=65c14ff7&is=65aedaf7&hm=17e26edf4e55bcaa651f56f9caf73d624799923b9d6c8f645ea9ba406e0b7be4&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199100073615818773/2374a6296671600a8846f2ba3ea9a035.jpg?ex=65c14ff7&is=65aedaf7&hm=5c398cfc108a705ff5f28f1df2de36db3a0f166fcd8a6c4cfd5c4e09cc6853b4&"
+    },{
+        "name":"Killua",
+        "anime":"Hunter x Hunter",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126169119473744/IMG_20240125_180311.png?ex=65c50b97&is=65b29697&hm=816ef1b791fc010fd5240ef5716d122b7e6ac576aa9cc9cafa654e58be52ade0&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126168901373972/1_7Qy6qbDkrIQ_7qPrnSqkiA.png?ex=65c50b97&is=65b29697&hm=af524ef8d48734eef665bbb1981b51fd6fcab6747b299643965b19e17445e3ce&"
+    },{
+        "name":"Kiyotaka",
+        "anime":"Classroom Of The Elite",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126153822843044/IMG_20240125_180438.jpg?ex=65c50b94&is=65b29694&hm=36b57ff34304a42f385d2ac53e8cb3b52431ad1e8ce8bc2a552a6c7e2fad4b2c&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126153566978088/filters_quality95formatwebp.jpg?ex=65c50b94&is=65b29694&hm=8065572553ac6e3021199f1059c184c5b0d79dafce87e18f84f15ce104eeeb61&"
+    },{
+        "name":"Suzune",
+        "anime":"Classroom Of The Elite",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126135686664212/IMG_20240125_180513.png?ex=65c50b90&is=65b29690&hm=d869840955e477dd9949a48fa966cbaf8e383556bedd2e9efee3bb8898fb8f47&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126135430828183/horikita-1.png?ex=65c50b8f&is=65b2968f&hm=7f53e457674dd278c1503c470b7ebb905a05bd559ce5b855f3505c4cc7476959&"
+    },{
+        "name":"Aki",
+        "anime":"Chainsaw Man",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199100174178472096/IMG_20240122_221234.jpg?ex=65c1500f&is=65aedb0f&hm=1adda8fc60a91d0b640d4b6173beb974fc7b57cdc0fabc760e45dcf0fcc0e993&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199100173981331636/bc97a0916f8a61abc2cd002074ae372a.jpg?ex=65c1500f&is=65aedb0f&hm=4bdaf569e73e038c51a387409b43e83a3485aa4a930ad86ab9e02fe5e8adfd29&"
+    },{
+        "name":"David",
+        "anime":"Cyberpunk: Edgerunners",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126123263135804/IMG_20240125_180940.jpg?ex=65c50b8d&is=65b2968d&hm=65058d8e9c24605bb76fcbd2496c1e97d1486acf0d4428b9c53c0b14b73f8ebe&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200126122961150075/34b66ff9167f2f7fcf80842f416a7436.jpg?ex=65c50b8c&is=65b2968c&hm=535b7612140bc2f905b6f615bb992d2ac32088cf2c5b87d731225b965aadd5d8&"
+    },{
+        "name":"Gojo",
+        "anime":"Jujutsu Kaisen",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128756862427217/IMG_20240125_181700.jpg?ex=65c50e00&is=65b29900&hm=c43ebfaf15b5769dd75d33502a3f09beeac55ea523e6d97d1ca9c981c833738b&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128756560433315/Gojo-Jujutsu-Kaisen-But-Why-Tho-2.jpg?ex=65c50e00&is=65b29900&hm=76de704e783bf322db9c1c04fd74ab25907d80a27f0183fdf9299edae229fcce&"
+    },{
+        "name":"Itadori",
+        "anime":"Jujutsu Kaisen",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128747056148530/IMG_20240125_181818.jpg?ex=65c50dfe&is=65b298fe&hm=9271723c581c6027bcab4b4d5d60af790e4608450fe4d7201315f192839072d9&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128746821255228/disexo_sin_txtulo_x79x.jpg_1758632412.jpg?ex=65c50dfe&is=65b298fe&hm=77edafe18d673919ca08292578715c8bd4ee0e0123f809b11435f4a5e869f888&"
+    },{
+        "name":"Utahime",
+        "anime":"Jujutsu Kaisen",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128735639253012/IMG_20240125_181904.jpg?ex=65c50dfb&is=65b298fb&hm=cc5f0d36f3ec28e30ce7339dcf5c3846871f6839832f12f7f4cab12000df62be&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128735345655961/0cdc0e5632884dd7b312b1aed13c16bb.jpg?ex=65c50dfb&is=65b298fb&hm=9410ba0f88784e4559b3304aaf7885f3883ce6579ba19f874a695e37f2c9f8bf&"
+    },{
+        "name":"Geto",
+        "anime":"Jujutsu Kaisen",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128726378229760/IMG_20240125_181949.jpg?ex=65c50df9&is=65b298f9&hm=bc018d45d4ace2ac595037ed80a2578656f91bb3c46c658f4857094b9bbabbc8&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128726105587712/04d9b485d5a95213b80c2a59f1f6e4d6.jpg?ex=65c50df9&is=65b298f9&hm=bb3e7fc739ea5fc452b5da6116e4e4c552dae3deb64c7501cfe2525d2f5ac13d&"
+    },{
+        "name":"Toji",
+        "anime":"Jujutsu Kaisen",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199095167467131081/IMG_20240122_215551.jpg?ex=65c14b66&is=65aed666&hm=19d3d9851b53c33ba42c0234f374e64f96c05448b3c85eb8c5ab41a205df5533&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199095193987723466/IMG_20240122_215532.jpg?ex=65c14b6c&is=65aed66c&hm=3c1388e2ce4dc8db2c8595ca240d577ea5d72bbfeb267feb73dba8668686532e&"
+    },{
+        "name":"Izuku",
+        "anime":"Boku no Hero Academia",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128713195536404/IMG_20240125_182057.jpg?ex=65c50df6&is=65b298f6&hm=417717f204e2b92a15812f59b2891567a836ed65f1938412bb5148f39e6c5afc&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128712784486570/e529a91bf9a889b917dcad5f4eb8c156.jpg?ex=65c50df6&is=65b298f6&hm=3d8bb4d3906c717648d71c282ca7cef1ae1804db602cd11713966491592aa8ed&"
+    },{
+        "name":"Shoto",
+        "anime":"Boku no Hero Academia",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128703137587312/IMG_20240125_182142.jpg?ex=65c50df4&is=65b298f4&hm=3e9bb0cc1418f80e6d78083178306b2072ccf91609cedc1fe376922a8857d308&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128702722347068/5c74e5da9d8bde5c63937cba52615197.jpg?ex=65c50df4&is=65b298f4&hm=87cd0256a4d11aefc8cb869fc77993f6ce27fb213f640c85d14ca8cdc5c89021&"
+    },{
+        "name":"All Might",
+        "anime":"Boku no Hero Academia",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128693780107274/IMG_20240125_182243.jpg?ex=65c50df1&is=65b298f1&hm=a1368972b19972fe3635df02229df8beb260892dbd9adcb5eb3da54b0f29ab96&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200128693427765289/3abae504f2e6d737a993f1f1c0116224.jpg?ex=65c50df1&is=65b298f1&hm=095497747000f89599f7a336331b4dba5a3340d79c19fe80be39e72d2c0c40a5&"
+    },{
+        "name":"Madara",
+        "anime":"Naruto",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199096184703303721/09fab77788b09515a142d63cd2c9a253_edit_126488917719761.jpg?ex=65c14c58&is=65aed758&hm=4988625c704a8e6b3531ce2d9710909a6fa343da85dab25fed83a242ecbfdf89&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199096194207592561/09fab77788b09515a142d63cd2c9a253.jpg?ex=65c14c5a&is=65aed75a&hm=0ee506ee6f7c86a295b5e173ce0a2b7b34387b8f302181de948de1568e8cc33b&"
+    },{
+        "name":"Nezuko",
+        "anime":"",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199095783593623583/IMG_20240122_215823.jpg?ex=65c14bf8&is=65aed6f8&hm=c252bc70ecffc55ecab76f484ecae77e3ff97afbdda0b104907f550004738c06&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199095799167070358/285e6e3c1053f9d9f945cb64483845ff.jpg?ex=65c14bfc&is=65aed6fc&hm=feda50b7692e6c7f640acaf6ba0b90ccddef4b119f1f6ce5169a3dd05ecd3418&"
+    },{
+        "name":"Kakashi",
+        "anime":"",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199096537263906916/IMG_20240122_220125.jpg?ex=65c14cac&is=65aed7ac&hm=c5483dc75f59db9333a4d837d254f3ba7b9f44502ee766136528783880474ca9&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199096548999565412/8f63cf6f05c9102d7f02ac12d7dc07a0.jpg?ex=65c14caf&is=65aed7af&hm=936ecad4258187c970c7af033c053828374f9da4fa4e02bc32c52c58a5ee85e6&"
+    },{
+        "name":"Zoro",
+        "anime":"",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199096829422346351/IMG_20240122_220225.jpg?ex=65c14cf2&is=65aed7f2&hm=b6f503590bef8b84829f01970744a50553c3f5738a8d7541957cd52d00c0a534&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1199096838230384792/4b0959f6797abb75de6ed774b4edf590.jpg?ex=65c14cf4&is=65aed7f4&hm=82445b43bf032bb23c4d7cfa29c41f9b0458c71e70fb90ecb4f480b3e8e1a9e3&"
+    },{
+        "name":"Loid",
+        "anime":"",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200180080891146291/IMG_20240125_214654.png?ex=65c53dcd&is=65b2c8cd&hm=82d0c480083bd261b2a69ec8e1c43c3339cb15596d54f5e699fb9b21cd30bd1a&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200180081176367104/loidforger.png?ex=65c53dcd&is=65b2c8cd&hm=86f7919ad96f29c7d54af8c2504c29710c6b3b1aad91f14363b7af71c2614e8c&"
+    },{
+        "name":"Yor",
+        "anime":"",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200180090206695575/IMG_20240125_214544.jpg?ex=65c53dcf&is=65b2c8cf&hm=f9b84856292bed3178d199f9a0c83b4f8472ef88cc0f914b322f761a63cf86be&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200180090563199097/images_5.jpg?ex=65c53dcf&is=65b2c8cf&hm=000082484bf8330bafde0a467ca1b8af70b9fe87c5fb52cfe0c32a852da5a482&"
+    },{
+        "name":"Anya",
+        "anime":"",
+        "partImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200180099983618148/IMG_20240125_214456.jpg?ex=65c53dd2&is=65b2c8d2&hm=6ad29176d269aa473cec949dd3615367894adf0c7649bd83d7fd2789eaa6ca19&",
+        "mainImage":"https://cdn.discordapp.com/attachments/1199059115004153976/1200180100642111639/anya-forger-heh.jpg?ex=65c53dd2&is=65b2c8d2&hm=49866a19847b7d9ce8d732db1fd70f37b337cd4d8c48c74dd9b7be7cdb176f06&"
+    },{
+        "name":"Fanshi",
+        "anime":"",
+        "partImage":"https://cdn.discordapp.com/attachments/797625451295146004/1200252161599213660/IMG_20240126_023325.png?ex=65c580ee&is=65b30bee&hm=b8bac27789158185c5e7e17f2ff4ba5c91067aa1e0df8201a281102ff56026ca&",
+        "mainImage":"https://cdn.discordapp.com/attachments/797625451295146004/1200251764268605570/Anonekekek.png?ex=65c58090&is=65b30b90&hm=5bf9af549ff31f51bb67d84a64c51e3e1f929091762bc6d01e3683f74ac8241f&"
+    }
+]
